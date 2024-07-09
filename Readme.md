@@ -1,7 +1,6 @@
-# Apperçu 1
+# My Project
 
-![Local Image](2323243-kekstagram-28/gifs/keksagram.gif)
+Voici un aperçu de mon projet :
 
-# Apperçu 2
-
-![Local Image](2323243-kekstagram-28/gifs/keksagram2.gif)
+![Keksagram GIF](./gifs/keksagram.gif)
+![Keksagram GIF 2](./gifs/keksagram2.gif)
